@@ -1,0 +1,11 @@
+a)
+- n user eingabe
+- speicher reservieren für vektor und matrizen
+- speicher wieder freigeben am ende
+- tempalte funtkion
+
+b)
+- bool funktion ob vektoren gleich sind true/false
+
+c)
+- 
